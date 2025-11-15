@@ -70,15 +70,4 @@ npm start
 - `npm run ios` - Run on iOS device/simulator
 - `npm run web` - Run in web browser
 
-## Code Quality
-
-- ✅ No inline styling - All styles in separate files
-- ✅ Reusable components - DRY principles followed
-- ✅ Clean code structure - Well-organized folders
-- ✅ Theme system - Consistent design tokens
-- ✅ No linter errors - Clean and optimized code
-
-## License
-
-This project is private.
 
